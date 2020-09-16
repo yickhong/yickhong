@@ -5,10 +5,10 @@ Hong Kong born developer specialized in mobile app development turned into exper
 Professionally started off as a Symbian developer, webapp development Actionscript 3 for a year and worked in C++/C# for a PC desktop program/IE plugin. I'm very experienced in mobile app / SDK developement and architecture design. Worked in mobile app with the example of data backup, utility, social meda, audio processing, device companion app. Particular interested in location based features etc. I have a hand in about 10 apps in Apple App Store.
 
 ### What am I doing right now?
-I'm currently employed by Tymphany, a world class audio product manufacturer, and based in Shenzhen at the moment. So I work with a lot of different OEM audio branding company. Lesser hands-on, more into software strategy, roadmap planning and commercialization right now. I'm mostly checking out my teams' progress, doing code review and merging pull request in Github lately.
+I'm currently employed by Tymphany, a world class audio product manufacturer, and based in Shenzhen at the moment. So I work with a lot of different OEM audio branding companies. Lesser hands-on, more into software strategy, roadmap planning and commercialization right now. I'm mostly checking out my teams' progress, doing code review and merging pull request in Github lately.
 
 ### What do I do in leisure time?
-I don't play bass guitar as much as I was but this is still my passion. If I'm not at home or office, I'm most likely traveling in Japan for pleasure or Taipei for business. I love reading and writing about the history of Japan, travel and also rock music.
+I don't play bass guitar as much as I was but this is still my passion. If I'm not at home or office, I'm most likely traveling in Japan for pleasure or Taipei for business. I love reading and writing about the history of Japan, travel and also rock music. At the moment, I'm learning software business and taking courses in cybersecurity knowledge. DSP or AI might be next. By the way, I'm also diving into the world of whisky tasting.
 
 <!--
 **yickhong/yickhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
