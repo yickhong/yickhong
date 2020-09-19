@@ -3,6 +3,8 @@
 2. 💡 Innovative - Think out-of-the-box and do stuff in a new way or with new technology
 3. 🛠 Versatile - I'm very comfortable in different technical or non-technical, roles or duties
 
+![open to work](https://img.shields.io/badge/job%20opportunities-no-red) ![business ideas](https://img.shields.io/badge/business%20ideas-yes-green) ![Casual chat](https://img.shields.io/badge/casual%20talk-welcome-brightgreen) ![Form a band](https://img.shields.io/badge/form%20a%20band-of%20course!-brightgreen)
+
 ### 😎 Who am I?
 **Hong Kong** born developer specialized in **mobile app development** turned into **experienced manager and team leader** of software engineering and technology team.
 
