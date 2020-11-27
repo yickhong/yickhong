@@ -15,7 +15,7 @@ Professionally started off as a Symbian developer, I've also spent 2 professiona
 I'm currently employed by **Tymphany**, a world-class audio product manufacturer, and based in Shenzhen at the moment. So I **have been working with a lot of different OEM audio branding companies and also technology providers like Google, Amazon, Qualcomm, Tencent, Baidu, etc., for years**. Unfortunately lesser hands-on lately, I focus on **technology strategy, roadmap planning, and SW IP commercialization** in my job right now. I come to Github mostly to check out my teams' progress, doing code review, and merging pull requests.
 
 ### 🎸 What do I do in leisure time?
-I don't play **bass guitar** as much as I was but this is still my passion. If I'm not at home or office, I'm most likely **traveling in Japan** for pleasure or Taipei for business. I love reading and writing about the **history of Japan, travel, and also rock music**. At the moment, I'm learning software **business** by doing and taking courses about **cybersecurity**. DSP or AI might be next. By the way, I'm also diving into the world of **whisky tasting**.
+I don't play **bass guitar** as much as I was but this is still my passion. If I'm not at home or office, I'm most likely **traveling in Japan** for pleasure or Taipei for business. I love reading and writing about the **history of Japan, travel, and also rock music**. At the moment, I'm learning software **business** by doing. DSP or AI might be next. By the way, I'm also diving into the world of **whisky tasting**.
 
 <!--
 **yickhong/yickhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
